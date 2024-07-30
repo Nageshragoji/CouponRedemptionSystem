@@ -1,5 +1,5 @@
 #Coupon Redemption System
-https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/
+https://Machinelearning/couponredemptionsystem
 
 ## Problem Statement
 <p>Discount marketing and coupon usage are very widely used promotional techniques to attract new customers and to retain & reinforce loyalty of existing customers. The measurement of a consumer’s propensity towards coupon usage and the prediction of the redemption behaviour are crucial parameters in assessing the effectiveness of a marketing campaign.<p>
